@@ -1,6 +1,6 @@
 # Tool Robust Exploration
 
-Styu
+Studying using mock tool calls to improve prompt robustness.
 
 ## Layout
 
